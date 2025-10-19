@@ -1,0 +1,4 @@
+# Ignore large data files
+bot_tested_1/data/raw_quotes.csv
+bot_tested_1/data/raw_trades.csv
+bot_tested_1/data/features.csv
