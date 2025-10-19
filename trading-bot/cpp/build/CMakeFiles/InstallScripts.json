@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/parasdhiman/Desktop/market-making-bot/trading-bot/cpp/build/cmake_install.cmake",
+		"/Users/parasdhiman/Desktop/market-making-bot/trading-bot/cpp/build/_deps/spdlog-build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

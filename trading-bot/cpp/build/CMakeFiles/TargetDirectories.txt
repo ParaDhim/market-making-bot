@@ -1,0 +1,6 @@
+/Users/parasdhiman/Desktop/market-making-bot/trading-bot/cpp/build/CMakeFiles/trading_engine.dir
+/Users/parasdhiman/Desktop/market-making-bot/trading-bot/cpp/build/CMakeFiles/edit_cache.dir
+/Users/parasdhiman/Desktop/market-making-bot/trading-bot/cpp/build/CMakeFiles/rebuild_cache.dir
+/Users/parasdhiman/Desktop/market-making-bot/trading-bot/cpp/build/_deps/spdlog-build/CMakeFiles/spdlog.dir
+/Users/parasdhiman/Desktop/market-making-bot/trading-bot/cpp/build/_deps/spdlog-build/CMakeFiles/edit_cache.dir
+/Users/parasdhiman/Desktop/market-making-bot/trading-bot/cpp/build/_deps/spdlog-build/CMakeFiles/rebuild_cache.dir
